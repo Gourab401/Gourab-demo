@@ -1,3 +1,3 @@
 # Gourab-demo
 This is my first git repository.
-<br>Author-Gdurab Dey<\br>
+<br>Author-Gdurab Dey
