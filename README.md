@@ -15,6 +15,7 @@ This is my first git repository.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gourab401/Gourab-demo/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gourab401/Gourab-demo/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Gourab401/Gourab-demo/tree/main/0141-linked-list-cycle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,9 +28,14 @@ This is my first git repository.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Gourab401/Gourab-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gourab401/Gourab-demo/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Gourab401/Gourab-demo/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Gourab401/Gourab-demo/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
