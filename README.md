@@ -1,6 +1,6 @@
 # Gourab-demo
 This is my first git repository.
-<br>Author-Gdurab Dey
+<br>Author-Gourab Dey
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
