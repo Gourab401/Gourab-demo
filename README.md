@@ -50,4 +50,16 @@ This is my first git repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gourab401/Gourab-demo/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gourab401/Gourab-demo/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gourab401/Gourab-demo/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
