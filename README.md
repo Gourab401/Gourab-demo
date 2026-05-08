@@ -10,6 +10,7 @@ This is my first git repository.
 | [0011-container-with-most-water](https://github.com/Gourab401/Gourab-demo/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/Gourab401/Gourab-demo/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gourab401/Gourab-demo/tree/main/0088-merge-sorted-array/) | Easy |
+| [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,8 @@ This is my first git repository.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Gourab401/Gourab-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
