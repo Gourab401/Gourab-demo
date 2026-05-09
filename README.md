@@ -79,6 +79,7 @@ This is my first git repository.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gourab401/Gourab-demo/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Gourab401/Gourab-demo/tree/main/0198-house-robber/) | Medium |
@@ -103,4 +104,12 @@ This is my first git repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gourab401/Gourab-demo/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gourab401/Gourab-demo/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
