@@ -13,6 +13,7 @@ This is my first git repository.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0735-asteroid-collision](https://github.com/Gourab401/Gourab-demo/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ This is my first git repository.
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Gourab401/Gourab-demo/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gourab401/Gourab-demo/tree/main/0088-merge-sorted-array/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ This is my first git repository.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Gourab401/Gourab-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,24 @@ This is my first git repository.
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
