@@ -11,6 +11,7 @@ This is my first git repository.
 | [0056-merge-intervals](https://github.com/Gourab401/Gourab-demo/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gourab401/Gourab-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
 | [0735-asteroid-collision](https://github.com/Gourab401/Gourab-demo/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
@@ -26,6 +27,7 @@ This is my first git repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gourab401/Gourab-demo/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,5 @@ This is my first git repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
