@@ -13,6 +13,7 @@ This is my first git repository.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
+| [0198-house-robber](https://github.com/Gourab401/Gourab-demo/tree/main/0198-house-robber/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0735-asteroid-collision](https://github.com/Gourab401/Gourab-demo/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
@@ -79,6 +80,7 @@ This is my first git repository.
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0198-house-robber](https://github.com/Gourab401/Gourab-demo/tree/main/0198-house-robber/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
