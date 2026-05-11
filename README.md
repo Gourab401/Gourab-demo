@@ -18,6 +18,7 @@ This is my first git repository.
 | [0213-house-robber-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0213-house-robber-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0735-asteroid-collision](https://github.com/Gourab401/Gourab-demo/tree/main/0735-asteroid-collision/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Gourab401/Gourab-demo/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ This is my first git repository.
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Gourab401/Gourab-demo/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Gourab401/Gourab-demo/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
