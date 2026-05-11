@@ -18,6 +18,7 @@ This is my first git repository.
 | [0213-house-robber-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0213-house-robber-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0735-asteroid-collision](https://github.com/Gourab401/Gourab-demo/tree/main/0735-asteroid-collision/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Gourab401/Gourab-demo/tree/main/0881-boats-to-save-people/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Gourab401/Gourab-demo/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -27,18 +28,21 @@ This is my first git repository.
 | [0141-linked-list-cycle](https://github.com/Gourab401/Gourab-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Gourab401/Gourab-demo/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Gourab401/Gourab-demo/tree/main/0881-boats-to-save-people/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gourab401/Gourab-demo/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gourab401/Gourab-demo/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gourab401/Gourab-demo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Gourab401/Gourab-demo/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Gourab401/Gourab-demo/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gourab401/Gourab-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gourab401/Gourab-demo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Gourab401/Gourab-demo/tree/main/0881-boats-to-save-people/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
