@@ -8,6 +8,7 @@ This is my first git repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gourab401/Gourab-demo/tree/main/0011-container-with-most-water/) | Medium |
+| [0035-search-insert-position](https://github.com/Gourab401/Gourab-demo/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/Gourab401/Gourab-demo/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gourab401/Gourab-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab401/Gourab-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -58,6 +59,7 @@ This is my first git repository.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Gourab401/Gourab-demo/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Gourab401/Gourab-demo/tree/main/0162-find-peak-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
